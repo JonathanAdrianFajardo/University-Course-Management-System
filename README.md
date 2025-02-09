@@ -21,7 +21,7 @@ Key Features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/course-management-system.git
+   git clone https://github.com/JonathanAdrianFajardo/University-Course-Management-System.git
    ```
 2. Navigate to the project directory:
    ```bash
