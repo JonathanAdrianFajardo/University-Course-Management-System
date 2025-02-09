@@ -1,0 +1,38 @@
+# System & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Virtual Environments & Dependencies
+.env
+.venv/
+venv/
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python Compiled & Cache Files
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Django Database & Migrations
+*.sqlite3
+db.sqlite3
+/migrations/.pyc
+/migrations/.py
+
+# Log Files & Debugging Outputs
+logs/
+*.log
+
+# Build & Distribution Files
+/dist/
+/build/
+
+# Other Unnecessary Files
+*.swp
+*.bak
+*.tmp
