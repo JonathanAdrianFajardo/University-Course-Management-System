@@ -25,7 +25,7 @@ Key Features:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd course-management-system
+   cd University-Course-Management-System
    ```
 3. Install backend dependencies:
    ```bash
